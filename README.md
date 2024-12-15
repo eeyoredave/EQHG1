@@ -33,12 +33,12 @@
 <p>All the of the modelling was done in Rhino 3D v8. Yes, it is not a parametric modeller like Fusion, etc., but its a package that I own, have been using for over 20 years and I am familiar with it. There are a total of 6 printed parts, all were prototyped in PETG-HF (https://store.bambulab.com/products/petg-hf) and final printed in PETG-CF (https://store.bambulab.com/products/petg-cf). I used the CF product because I liked the colours and finish better, does not specifically require drying before use (though I have a drying cabinet) and the mechanical properties are slightly better. Of course, feel free to use whatever you desire or have on hand.</p>
 <p>It has been designed to be printed without any supports and also split to allow some colour creativity on your part. I had no issues printing any of the parts in my Bmabu P1S and the settings I used were basically a strong 0.20 mm.</p>
 <ol>
-  <li>Main Body (to connect the NEMA17 motor)</li>
-  <li>Sepacer Ring (to clear the ZXF14 body screw heads)</li>
-  <li>Harmonic Gear Separator (to space the ZXF14 from the main body but maintain the dovetail rail)</li>
-  <li>Harmonic Gear mounting ring (to mount the sandwhich the harmonic gear to the main body and also enclose the 6810 bearing)</li>
-  <li>Output Plate (to connect the harmonic gear to the dovetail clamp plate and also sits within the 6810 bearing)</li>
-  <li>GX12 socket mount (to connect the NEMA17 motor to the GX12 cable) This is the one part I am not happy with, it doesn't sit right, and the connection between the motor and the socket is not ideal, I would like to improve this.</li>
+  <li>EQ_PG_Body_04 Main Body (to connect the NEMA17 motor)</li>
+  <li>EQ_PG_Spacer_01 Sepacer Ring (to clear the ZXF14 body screw heads)</li>
+  <li>EQ_HG_Spacer_01 Harmonic Gear Separator (to space the ZXF14 from the main body but maintain the dovetail rail)</li>
+  <li>EQ_HG_Body_03 Harmonic Gear mounting ring (to mount the sandwhich the harmonic gear to the main body and also enclose the 6810 bearing)</li>
+  <li>EQ_Output_Plate_03 Output Plate (to connect the harmonic gear to the dovetail clamp plate and also sits within the 6810 bearing)</li>
+  <li>EQ_MotorConnect_03 GX12 socket mount (to connect the NEMA17 motor to the GX12 cable) This is the one part I am not happy with, it doesn't sit right, and the connection between the motor and the socket is not ideal, I would like to improve this.</li>
 </ol>
 
 <h2>Electronic</h2>
