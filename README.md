@@ -42,7 +42,7 @@
 <p>For reference, I tired reducing the microsteps to 8 or lower, to increase slewing speed, but found it to slip and stall. It would appear that a minimum of 16 microsteps works well so far.</p>
 
 <h1>Testing</h1>
-<p>My current load is an Askar SQA55/ASI622MC with EAF and a 30mm guidescope/ASI120mm - quite a light load. Having used this with OnStepX controller and AsiAir Lite, I have found that the tracking erros have been in the region of 1.0 RMS typically, reaching as low as 0.6 RMS.</p>
+<p>My current load is an Askar SQA55/ASI622MC with EAF and a 30mm guidescope/ASI120mm - quite a light load. Having used this with OnStepX controller and AsiAir Lite, I have found that the tracking erros have been in the region of 1.0 RMS typically, reaching as low as 0.64 RMS. So far, I've had no issues with up to 2 minute exposures using auto-guiding. This was done from my Bortle 9 high rise balcony, without a rough eyeball PA (I did not use the PA function as yet).</p>
 
 <img src="images/tracking_2.jpeg" />
 <img src="images/tracking_1.png" />
