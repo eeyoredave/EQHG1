@@ -5,6 +5,8 @@
 
 <p>It is set up in a modular fashion that building only one of the two motors, it can be used as a simple sky tracker. Using two will allow it to be used as a GoTo mount with dual axis tracking, etc.. Each module are identical. All 3D printed parts were printed on my Bambu P1S using Bambu Labs PETG-CF. I am sure other printer and filament combinations can be used, but you may need to test fit the parts as required. </p>
 
+<p>As built, each module weights 1.537 g, so a total weight of just over 3.0 kg.</p>
+
 <h1>BoM</h1>
 <p>The below is for 1 motor, you will need 2 for a full GoTo/2 axis tracking mount). You can substitute different parts or motos gear ratios to suite your needs, but I will not be able to provide additional STL files, etc., to match.</p>
 <h2>Hardware</h2>
@@ -38,4 +40,4 @@
 <p>More testing is required. In more conditions under different loads, tracking times, etc. I will for sure try it with my Takahashi FC-100DC, though its fairly light, is quite a long load which might start to test its true performance.</p>
 <p>Moving forward, I would like to consider if using a 27:1 PG gear as a more appropriate first stage, as that would still give a similar steps per degree, 48,000 using 32 microsteps and also an option for lower steps at 24,000 steps using 16 microsteps. Or even using a 50:1 harmonic gear.</p>
 
-<p>As the next 'evolution' of the project, I would like to consider having a 'single body' mount, where both the DEC and RA are on one body with the electroncis. In this arrange, I would try to reduce the weight and bulk and make it a very portable travel GoTo EQ mount.</p>
+<p>As the next 'evolution' of the project, I would like to consider having a 'single body' mount, where both the DEC and RA are on one body with the electroncis. In this arrange, I would try to reduce the weight and bulk and make it a very portable travel GoTo EQ mount. Making it smaller, easier to package and most importantly, lighter.</p>
