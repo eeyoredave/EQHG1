@@ -22,15 +22,14 @@
 <h2>3D Printed Parts</h2> 
 
 <h2>Electronic</h2>
-I have used a Fystec E4 as the OnStepX controller board and found that the settings that works well so far to be (for either motors):
+<p>I have used a Fystec E4 as the OnStepX controller board and found that the settings that works well so far to be (for either motors):</p>
 <ol>
 <li>Steps per degree: 44,444.444</li>
 <li>Microsteps: 16</li>
 <li>Everything as standard as per the OnStepX fresh install</li>
 </ol>
 
-For reference, I tired reducing the microsteps to 8 or lower, to increase slewing speed, but found it to slip and stall. It would appear that a minimum of 16 microsteps works well so far. 
-
+<p>For reference, I tired reducing the microsteps to 8 or lower, to increase slewing speed, but found it to slip and stall. It would appear that a minimum of 16 microsteps works well so far.</p>
 
 <h1>Testing</h1>
-Having used this with OnStepX controller and AsiAir Lite, I have found that the tracking erros have been in the region of 1.0 RMS typically, reaching as low as 0.6 RMS. 
+<p>Having used this with OnStepX controller and AsiAir Lite, I have found that the tracking erros have been in the region of 1.0 RMS typically, reaching as low as 0.6 RMS.</p>
