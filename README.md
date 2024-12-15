@@ -37,10 +37,16 @@
 <li>Everything as standard as per the OnStepX fresh install</li>
 </ol>
 
+<img src="images/eqhg1_onstepx.png" />
+
 <p>For reference, I tired reducing the microsteps to 8 or lower, to increase slewing speed, but found it to slip and stall. It would appear that a minimum of 16 microsteps works well so far.</p>
 
 <h1>Testing</h1>
 <p>My current load is an Askar SQA55/ASI622MC with EAF and a 30mm guidescope/ASI120mm - quite a light load. Having used this with OnStepX controller and AsiAir Lite, I have found that the tracking erros have been in the region of 1.0 RMS typically, reaching as low as 0.6 RMS.</p>
+
+<img src="images/tracking_2.jpeg" />
+<img src="images/tracking_1.png" />
+<img src="images/tracking_3.png" />
 
 <h1>Next Steps</h1>
 <p>More testing is required. In more conditions under different loads, tracking times, etc. I will for sure try it with my Takahashi FC-100DC, though its fairly light, is quite a long load which might start to test its true performance.</p>
