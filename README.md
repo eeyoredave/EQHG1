@@ -1,11 +1,17 @@
 # EQHG1 Equatorial mount with harmonic gearing project
 <h1>Introduction</h1>
 
+<img src="eqhg1_1.jpeg" />
+
 <p>This is my record of a DIY equatorial mount for astronomy use. It is a design based on collated ideas from other projects and and it is designed to be built easily using readaily available parts and 3D printed parts. Whilst the goal has not been to make this the cheaapest project, consideration has been made in terms of 'value for money'.</p>
 
 <p>It is set up in a modular fashion that building only one of the two motors, it can be used as a simple sky tracker. Using two will allow it to be used as a GoTo mount with dual axis tracking, etc.. Each module are identical. All 3D printed parts were printed on my Bambu P1S using Bambu Labs PETG-CF. I am sure other printer and filament combinations can be used, but you may need to test fit the parts as required. </p>
 
 <p>As built, each module weights 1.537 g, so a total weight of just over 3.0 kg.</p>
+
+<img src="eqhg1_2.jpeg" />
+
+<img src="eqhg1_3.jpeg" />
 
 <h1>BoM</h1>
 <p>The below is for 1 motor, you will need 2 for a full GoTo/2 axis tracking mount). You can substitute different parts or motos gear ratios to suite your needs, but I will not be able to provide additional STL files, etc., to match.</p>
