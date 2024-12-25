@@ -64,7 +64,7 @@
 
 <figure>
     <img src="images/AEAurigae_20241214.jpg" />
-    <figcaption>AE Aurigae taken Dec 2024. 125x 30 second subs</figcaption>
+    <figcaption>AE Aurigae taken Dec 2024. 125x 30 second subs. There are some star trailing, direction of the trails are from the top left to bottoh right, maybe due to poor PA, but to be further reviewed and tweaked.</figcaption>
 </figure>
 
 <h1>Next Steps</h1>
